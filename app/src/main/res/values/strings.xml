@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RestaurantMenu</string>
+    <string name="logo">Logo restauracji</string>
+    <string-array name="options">
+        <item>Napoje</item>
+        <item>Przekąski</item>
+        <item>Inne cuda- wianki</item>
+    </string-array>
+    <string name="title_activity_drink_category">Kategoria napoje</string>
+</resources>
