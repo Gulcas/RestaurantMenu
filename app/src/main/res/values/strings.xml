@@ -7,4 +7,6 @@
         <item>Inne cuda- wianki</item>
     </string-array>
     <string name="title_activity_drink_category">Kategoria napoje</string>
+    <string name="title_activity_snack_category">Kategoria przekąski</string>
+    <string name="toastMessage">Kliknąłeś opcję jeszcze nie przygotowaną</string>
 </resources>
